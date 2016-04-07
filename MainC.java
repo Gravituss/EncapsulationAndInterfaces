@@ -1,3 +1,8 @@
+/** For learning purposes this little program uses interfaces and 
+ * encapsulation mechanisms. 
+ */
+
+
 package learning;
 
 public class MainC {
